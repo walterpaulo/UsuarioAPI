@@ -198,9 +198,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/walter/Documentos/Projetos/apis-desafios/UsuarioAPI/Agendac.csproj",
-      "projectName": "Agendac",
-      "projectPath": "/home/walter/Documentos/Projetos/apis-desafios/UsuarioAPI/Agendac.csproj",
+      "projectUniqueName": "/home/walter/Documentos/Projetos/apis-desafios/UsuarioAPI/UsuarioAPI.csproj",
+      "projectName": "UsuarioAPI",
+      "projectPath": "/home/walter/Documentos/Projetos/apis-desafios/UsuarioAPI/UsuarioAPI.csproj",
       "packagesPath": "/home/walter/.nuget/packages/",
       "outputPath": "/home/walter/Documentos/Projetos/apis-desafios/UsuarioAPI/obj/",
       "projectStyle": "PackageReference",
